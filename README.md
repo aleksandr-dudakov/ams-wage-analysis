@@ -1,4 +1,4 @@
-# ams-wage-analysis
+# Modeling Wage Determinants: A Multivariate Analysis of CPS Data
 
 ## Overview
 This project analyzes wage determinants using multivariate statistical techniques on the Current Population Survey (CPS) Outgoing Rotation Group (ORG) data. It is part of the Advanced Multivariate Statistics (AMS) course project.
