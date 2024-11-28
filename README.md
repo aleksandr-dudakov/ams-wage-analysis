@@ -25,9 +25,11 @@ Install required R packages:
 2. Install other required packages:
    ```R
    install.packages(c(
-       "dplyr", "ggplot2", "lme4", "robustbase", "car", "boot", 
-       "lmtest", "sandwich", "MASS", "DescTools", "MuMIn", 
-       "performance", "VIM", "psych", "GGally", "lmerTest"
+      "dplyr", "ggplot2", "lme4", "robustbase", "car", "boot", 
+      "lmtest", "sandwich", "MASS", "DescTools", "MuMIn", 
+      "performance", "VIM", "psych", "GGally", "lmerTest", 
+      "corrplot", "ggcorrplot", "leaps", "rrcov", "RobStatTM", 
+      "robustlmm", "stevemisc", "lattice", "tidyverse"
    ))
    ```
 ## Data Source
